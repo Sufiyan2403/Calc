@@ -7,6 +7,6 @@ public class CalculatorMain {
         Calculator calc = new Calculator();
 
         System.out.println("Add: " + calc.add(10, 5));
-        System.out.println("Sub: " + calc.sub(10, 15));
+        System.out.println("Sub: " + calc.sub(10, 9));
     }
 }
