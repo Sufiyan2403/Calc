@@ -8,5 +8,7 @@ public class CalculatorMain {
 
         System.out.println("Add: " + calc.add(10, 5));
         System.out.println("Sub: " + calc.sub(10, 9));
+        System.out.println("Sub: " + calc.mul(10, 9));
+
     }
 }
